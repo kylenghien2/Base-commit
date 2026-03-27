@@ -13,3 +13,4 @@ print('fffff')
 print('fqwf')
 print('qw')
 print('fqwf')
+def horny
