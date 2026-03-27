@@ -9,6 +9,6 @@ print('qweqweqe
 print('e')
 print('ggggg')
 print('fafs')
-print('qweqwegsdfd')
+print('wqewe')
 print('qw')
 print('chungyen')
