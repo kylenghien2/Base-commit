@@ -19,6 +19,10 @@ print('aa')
 print('
 aa')
 print('daad')
+print('aa')
+print('aa')
+print('aa')
+
 print('dd')
 print('aa')
 print('dd')
