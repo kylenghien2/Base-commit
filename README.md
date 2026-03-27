@@ -5,7 +5,7 @@ FIRST BASE COMMIT
 #tranhalinh
 ....
 print('Helloworld')
-print('ditme')
+print('ee')
 print('âfwf')
 print('aaaa')
 print('q')
