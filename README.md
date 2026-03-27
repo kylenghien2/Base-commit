@@ -4,7 +4,8 @@ FIRST BASE COMMIT
 #commit1111
 #tranhalinh
 ....
-print('fffffffaasdasdafagweghiwgiuwhghefiqhifohqoiwfhicnhoiweciqcnrnqoieqncowqcowncoqwnircnqworncoqnroqnrcoqnwocnqwodasrcoqcrqwc')
+print('
+a')
 print('e')
 print('asasda')
 print('aa')
