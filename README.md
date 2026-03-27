@@ -10,6 +10,6 @@ print('e')
 print('qweqw
 ')
 print('fafs')
-print('wqewe')
+print('qwrq')
 print('qw')
 print('chungyen')
