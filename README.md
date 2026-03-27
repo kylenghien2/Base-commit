@@ -9,7 +9,7 @@ print('fqwf
 print('e')
 print('fwfw
 ')
-print('fffff')
+print('qwdqwd')
 print('fqwf')
 print('qw')
 print('fqwf')
