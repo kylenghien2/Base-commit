@@ -15,6 +15,9 @@ a')
 print('sa
 ')
 print('aa')
+
+print('
+aa')
 print('daad')
 print('dd')
 print('aa')
