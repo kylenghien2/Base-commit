@@ -14,7 +14,7 @@ print('fsfs')
 print('gwgjwhghhdsfjhsdjfhdshfjdhfjdhfjhdjfhdjhfdjhfjdhfjdhjfhdjfhjdhfjdhfjdhfdjfhdjhajfodwajdfoajwfojaodswfjosadfsssgsfgsfsfsfsffsfgsaffffsdsdsfsffsfffffsffafsfsdsaasfssfsfsfs
 ffsdswjdsdfoajf
 a')
-print('sa
+print('asasd
 ')
 print('aa')
 
