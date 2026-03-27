@@ -9,7 +9,7 @@ print('dd')
 
 
 ...........................................................................................................................................
-print('gwgjwhghhdsfjhsdjfhdshfjdhfjdhfjhdjfhdjhfdjhfjdhfjdhjfhdjfhjdhfjdhfjdhfdjfhdjhajfodwajdfoajwfojaodswfjosadsffsffffffsffafsfsdsaasfssfsfsfs
+print('gwgjwhghhdsfjhsdjfhdshfjdhfjdhfjhdjfhdjhfdjhfjdhfjdhjfhdjfhjdhfjdhfjdhfdjfhdjhajfodwajdfoajwfojaodswfjosadsffsffffsfsfffsffafsfsdsaasfssfsfsfs
 ffsdswjdsdfoajf
 a')
 print('sa
