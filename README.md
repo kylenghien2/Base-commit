@@ -12,4 +12,4 @@ print('qweqw
 print('fafs')
 print('qwrq')
 print('qw')
-print('chungyen')
+print('qwrq')
