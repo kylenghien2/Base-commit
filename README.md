@@ -5,7 +5,7 @@ FIRST BASE COMMIT
 #tranhalinh
 ....
 print('asdas')
-print('fsdff')
+print('e')
 print('asdasd')
 print('fafs')
 print('q')
