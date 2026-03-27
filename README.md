@@ -20,6 +20,8 @@ print('
 aa')
 print('daad')
 print('aa')
+
+print('aa')
 print('aa')
 print('aa')
 
