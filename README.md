@@ -12,5 +12,5 @@ print('fs
 print('hhhhh')
 print('ffff')
 print('qw')
-print('fqwf')
+print('aa')
 def horny
