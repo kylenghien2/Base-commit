@@ -7,6 +7,6 @@ FIRST BASE COMMIT
 print('aasd')
 print('ee')
 print('qweweq')
-print('asdas')
+print('fafs')
 print('q')
 print('qw')
