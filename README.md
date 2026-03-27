@@ -11,7 +11,8 @@ print('dd')
 ...........................................................................................................................................
 print('gwgjwhghhdsfjhsdjfhdshfjdhfjdhfjhdjfhdjhfdjhfjdhfjdhjfhdjfhjdhfjdhfjdhfdjfhdjhajfodwajdfoajwfojaodswfjosadssdswjdsdfoajf
 a')
-print('aa')
+print('sa
+')
 print('aa')
 print('daad')
 print('dd')
