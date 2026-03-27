@@ -7,7 +7,7 @@ FIRST BASE COMMIT
 print('fffffff
 ')
 print('e')
-print('ffasfa
+print('gdfd
 ')
 print('hhhhh')
 print('ffff')
