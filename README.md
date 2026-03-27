@@ -11,7 +11,7 @@ print('fsfs')
 
 
 # ...........................................................................................................................................
-print('gwgjwhghhdsfjhsdjfhdshfjdhfjdhfjhdjfhdjhfdjhfjdhfjdhjfhdjfhjdhfjdhfjdhfdjfhdjhajfodwajdfoajwfojaodswfjosadfsssgsfgsfsfsfsffsfgsaffffsdsdsfsffsfffffsffafsfsdsaasfssfsfsfs
+print('gwgjwhghhdsfjhsdjfhdshfjdhfjdhfjhdjfhdjhfdjhfjdhfjdhjfhdjfhjdhfjdhfjdhfdjfhdjhajfodwajdfoajwfojaodswfjosadfsssgsfgsfsfsfsffsfgsaffffsdsdsfsffsfffffsffafsfsdsaasfssfsfsfsfsfs
 ffsdswjdsdfoajf
 a')
 print('fsf
