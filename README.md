@@ -10,7 +10,7 @@ print('e')
 print('fwfw
 ')
 print('qwdqwd')
-print('ddqdd')
+print('ffff')
 print('qw')
 print('fqwf')
 def horny
